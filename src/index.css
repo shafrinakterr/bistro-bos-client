@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Rancho&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Inter:wght@400;600;700;800&family=Rancho&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Inter:wght@400;600;700;800&family=Raleway&family=Rancho&display=swap');
